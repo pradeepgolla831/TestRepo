@@ -1,0 +1,9 @@
+<suite name="FirstTestNgSuite" verbose="1" >
+    <test name="DummyTest" group="">
+        <classes>
+            <class name="TestPackage.testClass"/>
+            <class name="TestPackage.testcalsee2"/>
+        </classes>
+    </test>
+
+</suite>
